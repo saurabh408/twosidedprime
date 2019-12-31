@@ -7,4 +7,4 @@ Steps to run :
 1. go install twosidedprime
 2. .bin/twosidedprime and then listen on server :8001
  
-Please hit to /twosidedprime/<your input number> to run example.
+Please hit to /twosidedprime/{your input number} to run example.
